@@ -1,0 +1,3 @@
+﻿Name	DisplayName	Scene	Target	Emotion	OtherWorld	DownMod
+Name	显示名称 	认知	理智	感知	万界天宫
+80533b93-8831-4dd8-a2f3-72f76119627a	QQ	SeeStone	Nature	Peace	1	0	

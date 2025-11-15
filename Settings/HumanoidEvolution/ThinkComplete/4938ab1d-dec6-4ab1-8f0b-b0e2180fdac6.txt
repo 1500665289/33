@@ -1,0 +1,3 @@
+﻿Name	DisplayName	Scene	Target	Emotion	OtherWorld	DownMod
+Name	显示名称 	认知	理智	感知	万界天宫
+4938ab1d-dec6-4ab1-8f0b-b0e2180fdac6	无敌	LickSelf	9160e844-589a-4dc4-acd4-8b9c616b8dc3	Peace	1	0	
